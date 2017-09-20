@@ -4,5 +4,8 @@ body{
 }
 .container{
 	background-color: #ddd;
-	padding: 
+	padding: 2em;
+}
+hr{
+	background-color: black;
 }
